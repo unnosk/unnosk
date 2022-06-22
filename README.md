@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Saki</h1>
 <h3 align="center">A passionate junior frontend developer from 🇯🇵</h3>
