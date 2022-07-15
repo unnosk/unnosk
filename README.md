@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saki</h1>
 <h3 align="center">A passionate junior frontend developer from 🇯🇵</h3>
 
-- 🔭 I’m currently working on [Planit](http://www.planit.lol/)
+- 🔭 I’m currently working on [ArtYourStory]()
 
 - 🌱 I’m currently learning **Javascript, React**
 
