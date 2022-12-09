@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Saki</h1>
 <h3 align="center">A passionate junior frontend developer </h3>
 
-- 🔭 I’m currently working on [New project]()
+- 🔭 I’m currently working on [New project!]()
 
-- 🌱 I’m currently learning **Javascript, React, Typescript**
+- 🌱 I’m currently learning **Javascript, React, Typescript, TailwindCSS**
 
 - 📫 How to reach me **unx2o.sk@gmail.com**
 
