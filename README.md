@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [New project!]()
 
-- 🌱 I’m currently learning **Javascript, React, Typescript, TailwindCSS**
+- 🌱 I’m currently learning **Javascript, React, Typescript, TailwindCSS, RSpec**
 
 - 📫 How to reach me **unx2o.sk@gmail.com**
 
