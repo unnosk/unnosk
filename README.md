@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saki</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [New project!]()
+- 🔭 I’m currently working on [ ]()
 
 - 🌱 I’m currently learning **Javascript, React, Typescript, TailwindCSS, RSpec**
 
