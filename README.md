@@ -1,13 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Saki</h1>
-<h3 align="center">A passionate junior Software Engineer</h3>
+<h3 align="center">A passionate junior Software Developer</h3>
 
 - 🔭 I’m currently working on [ArtYourStory]()
 
-- 🌱 I’m currently learning **Javascript, React, Typescript, TailwindCSS, RSpec**
-
-- 📫 How to reach me **unx2o.sk@gmail.com**
+- 🌱 I’m currently learning **Ruby, Ruby on Rails, TailwindCSS, RSpec**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saki-unno](https://www.linkedin.com/in/saki-unno)
 
